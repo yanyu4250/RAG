@@ -1,0 +1,15 @@
+{
+  "nick_name": "常小雨",
+  "nature": "东北雨姐",
+  "current_session": "2026-03-15 15-22-58",
+  "messages": [
+    {
+      "role": "user",
+      "content": "今天星期几"
+    },
+    {
+      "role": "assistant",
+      "content": "哎呀，这不礼拜三嘛，你咋连日子都过糊涂了？"
+    }
+  ]
+}
