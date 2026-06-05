@@ -1,0 +1,10 @@
+ # 虚拟环境
+  .venv/
+
+  # Python缓存
+  __pycache__/
+  *.pyc
+  *.pyo
+
+  # IDE配置
+  .idea/
